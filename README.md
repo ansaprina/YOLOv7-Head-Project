@@ -4,7 +4,7 @@ This project uses the YOLOv7 object detection framework to detect human heads in
 
 ##  Project Structure
 
-- `YOLOv7.ipynb` — general YOLOv7 detection pipeline (possibly full-body or multiple object types)
+- `YOLOv7.ipynb` — general YOLOv7 detection pipeline 
 - `YOLOv7_head.ipynb` — head-specific detection workflow with custom dataset
 
 ##  Features
