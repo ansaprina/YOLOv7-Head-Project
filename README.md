@@ -39,10 +39,11 @@ jupyter notebook YOLOv7_head.ipynb
 
 Modify training paths, batch size, and number of epochs as needed.
 
-##  Sample Results
+##  Results
 
-- FPS: ~xx (on GPU)
-- mAP@0.5: ~xx% after fine-tuning
+- Precision: 0.91
+- Recall: 0.851
+- mAP@0.5: 0.9 after fine-tuning
 
 
 
@@ -60,4 +61,4 @@ Based on the [YOLOv7](https://github.com/WongKinYiu/yolov7) repository by Wong K
 
 ---
 
-Made for academic purposes.
+Made for academic purposes
